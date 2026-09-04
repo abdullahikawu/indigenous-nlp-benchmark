@@ -1,0 +1,8 @@
+Member: anselmdan
+Role: JSONL and coverage validation
+Language: Gbagyi (Group 06)
+
+Summary:
+- Verified raw text entries match schema: {"id", "url", "date_retrieved", "raw_text"}
+- Confirmed dataset reaches target sentence threshold (>= 2,500 sentences)
+- Checked UTF-8 encoding and clean newline delimiters across records
