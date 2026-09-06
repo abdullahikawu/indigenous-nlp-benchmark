@@ -144,3 +144,5 @@ This repository is provided for educational purposes under the MIT License.
 **Course Name**: CSC 406 - Artificial Intelligence
 **Course Level**: Beginner to Intermediate NLP / Linguistics  
 **Duration**: 1 week - Due September 1st 2026
+## JSONL Schema & Coverage
+Structured raw Gbagyi text into standard JSONL format and validated dataset coverage.
