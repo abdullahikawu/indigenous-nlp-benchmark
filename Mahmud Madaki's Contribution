@@ -1,0 +1,6 @@
+Project Overview
+
+This project focuses on Natural Language Processing for the Gbagyi indigenous language. 
+It includes corpus collection, text cleaning, Unicode-aware tokenization, stop-word analysis, Zipf analysis, and language modelling.
+
+The project provides a basis for studying and evaluating NLP techniques on low-resource indigenous languages such as Gbagyi.
