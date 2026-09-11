@@ -144,3 +144,10 @@ This repository is provided for educational purposes under the MIT License.
 **Course Name**: CSC 406 - Artificial Intelligence
 **Course Level**: Beginner to Intermediate NLP / Linguistics  
 **Duration**: 1 week - Due September 1st 2026
+- Mohammed Haruna - U22/FNS/CSC/1238 - Data Processing, NLP
+- Umar Abdulrahman - U22/FNS/CSC/1005 - Web Development
+- Web Dev
+- CSC 406 Artificial intelligence 
+- Shuaibu Muhammad - U22/FNS/CSC/1009 - Data Collection
+- Suleiman Abdullahi Garba - U22/FEA/SED/1237 - Data processing, NLP  -
+- Umar Faruk Musa - U22/FNS/CSC/1294- Web development 
