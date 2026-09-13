@@ -144,3 +144,6 @@ This repository is provided for educational purposes under the MIT License.
 **Course Name**: CSC 406 - Artificial Intelligence
 **Course Level**: Beginner to Intermediate NLP / Linguistics  
 **Duration**: 1 week - Due September 1st 2026
+## Data Collection Notes (Group 02)
+
+Additional Nupe text data was collected from nup.wikipedia.org and added to the raw dataset, covering topics including Nigerian religious scholars and Nupe cultural figures.
