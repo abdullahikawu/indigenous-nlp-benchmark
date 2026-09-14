@@ -144,3 +144,43 @@ This repository is provided for educational purposes under the MIT License.
 **Course Name**: CSC 406 - Artificial Intelligence
 **Course Level**: Beginner to Intermediate NLP / Linguistics  
 **Duration**: 1 week - Due September 1st 2026
+## Data Collection Notes (Group 02)
+
+Additional Nupe text data was collected from nup.wikipedia.org and added to the raw dataset, covering topics including Nigerian religious scholars and Nupe cultural figures.
+
+
+
+
+## Group 02 - Nupe Language Team
+
+### Contributors
+- **Alamin Ha** - Project Lead
+- **Zakson01** - Data Collection
+- **Amma-py (ABDULAZIZ ABDULLAHI)** - Documentation & Quality Assurance
+- **[Member 4 Name]** - [Role]
+
+### Project Summary
+This project focuses on building NLP tools for the Nupe language, including:
+- Data collection (2,500+ sentences)
+- Text preprocessing and tokenization
+- Zipf's Law analysis
+- Bigram language model with Laplace smoothing
+
+### Nupe Language Notes
+- Nupe uses diacritics: ẹ, ọ, n̄
+- The language has unique tonal markers
+- Common words: unami (hello), eya (yes), ba (no)
+
+### Results
+- **Zipf's Exponent (α):** 1.3657
+- **Bigram Perplexity:** 45.2607
+- **Vocabulary Size:** 45 words
+- **Total Tokens:** 12,506
+
+### Acknowledgments
+This work is part of the Indigenous Language AI Benchmark project.
+## Group 02 Branch Notes
+**Branch**: `group-02-nup`
+**Languages Covered**: Nupe, Gbagyi
+**Purpose**: This branch contains Group 2's work for the Indigenous NLP Benchmark.
+
